@@ -1,12 +1,12 @@
 # James E. Moore III
 
-**ETL Developer** · Diamond Bar, California
+**Data Engineer** · Diamond Bar, California
 
 ---
 
 ### About
 
-ETL Developer with experience designing, building, and optimizing data pipelines using SQL Server and SSIS. Strong foundation in SQL, data modeling, and cloud environments (AWS). Focused on building scalable, maintainable workflows that support reliable analytics and reporting.
+Data Engineer | Azure Databricks · PySpark · SQL · Python | AWS & Terraform certified
 
 ---
 
@@ -24,20 +24,24 @@ ETL Developer with experience designing, building, and optimizing data pipelines
 
 ### 💼 Experience
 
-**ETL Developer** — St. Anne's Retirement Community *(Mar 2023 – Present)*
-- Designed and developed SSIS ETL pipelines to automate extraction, transformation, and loading
-- Built staging tables and implemented data transformation logic to support downstream reporting
-- Developed stored procedures and complex SQL queries for ETL transformations
-- Implemented error handling and logging mechanisms within SSIS packages
+**Data Engineer** — St. Anne's Retirement Community *(Mar 2024 – Present)*
+- Integrated case management and billing data into a Delta Lake lakehouse on Azure Databricks, using PySpark REST API ingestion and Bronze/Silver/Gold Medallion Architecture
+- Cut VA reporting and SF-425 reconciliation prep from ~4 hours to under 1 hour per cycle by automating extraction, cleansing and validation
+- Built automated data quality checks for duplicates, missing fields and inconsistent formats, with zero audit findings since 2024
+- Cut PySpark job runtime and compute cost by ~15% through partitioning, join tuning and code restructuring
+- Orchestrated weekly pipelines with Databricks Workflows, with zero missed VA reporting deadlines
 
-**Program Manager** — 211 LA *(Aug 2011 – Feb 2023)*
-- Led cloud-based data management solutions, enhancing HIPAA compliance by 35%
-- Developed AWS cost-monitoring strategies, reducing cloud spend by 20%
-- Led cross-functional teams to deploy SAP on AWS
+**Federal Compliance & Program Operations Manager** — St. Anne's Retirement Community *(Aug 2011 – Mar 2024)*
+- Managed federal grant financial data and reporting for a VA Grant and Per Diem program, including annual SF-425 Federal Financial Reports
+- Kept the program audit-ready through internal audits, general ledger reconciliation and corrective-action resolution
 
-**Technical Support Specialist** — CVS Health *(Dec 2006 – Mar 2011)*
-- Resolved 95% of Tier 1/2 issues on first contact
-- Automated repetitive troubleshooting tasks, increasing IT productivity by 20%
+### 🎓 Training
+**Lifting the Veil IT Academy** — Database Development & Azure Data Engineering Apprenticeship *(Jan 2022 – Feb 2024)*
+- Projects in SQL Server, T-SQL, SSIS, star-schema modeling, Azure Data Lake Storage, Databricks and Power BI
+- Provisioned AWS infrastructure (VPC, EC2, load balancers, IAM, S3) with Terraform and built a Jenkins CI/CD pipeline
+
+### 🚀 Featured Project
+**[Ecommerce AI Analyst System](https://github.com/JM1385/e-commerce-project)** — Python ETL into a SQL Server star schema, 16 SQL anomaly-detection queries, and an LLM analyst (Claude/OpenAI)
 
 ---
 
