@@ -41,7 +41,7 @@ Data Engineer | Azure Databricks · PySpark · SQL · Python | AWS & Terraform c
 - Provisioned AWS infrastructure (VPC, EC2, load balancers, IAM, S3) with Terraform and built a Jenkins CI/CD pipeline
 
 ### 🚀 Featured Project
-**[Ecommerce AI Analyst System](https://github.com/JM1385/e-commerce-project)** — Python ETL into a SQL Server star schema, 16 SQL anomaly-detection queries, and an LLM analyst (Claude/OpenAI)
+**[Ecommerce AI Analyst System](https://github.com/jayem1385/Ecommerce-Project)** — Python ETL into a SQL Server star schema, 16 SQL anomaly-detection queries, and an LLM analyst (Claude/OpenAI)
 
 ---
 
